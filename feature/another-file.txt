@@ -3,3 +3,5 @@ Just another-file created in feature branch.
 This file modified locally.
 
 This file modified locally2.
+
+This changes in local branch.
