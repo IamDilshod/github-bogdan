@@ -6,3 +6,5 @@ This file modified locally2.
 
 This changes in local branch.
 This changes in remote branch.
+
+This line was added in the feture-2 branch.
